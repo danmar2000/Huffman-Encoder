@@ -17,7 +17,7 @@ def start(my_data):
 
 
 lbl_title = Label(window, text='Huffman Encoder', font=('Tahoma', '36'), bg='ghost white')
-entry_text = Entry(window, font=('Tahoma', '24'), bg='sky blue')
+entry_text = Entry(window, font=('Tahoma', '20'), bg='sky blue')
 entry_text.insert(0, 'Enter the data')
 btn_cmd = Button(window, text='Encode', font=('Tahoma', '24'), command=lambda: start(entry_text.get()))
 

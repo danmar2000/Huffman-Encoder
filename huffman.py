@@ -4,7 +4,7 @@ Author: Danmar and Lidi
 """
 
 '''
-    Function which gets a data and returns the frequency of each symbol
+    Function which gets a data and returns the frequency of each char
 '''
 
 

@@ -4,3 +4,4 @@ Lib/
 Scripts/
 *.cfg
 *.pyc
+main.py
